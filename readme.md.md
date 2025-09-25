@@ -31,5 +31,7 @@
 
 
 
+### **The Display Property**
 
-
+* **Block**
+* **Inline**
