@@ -14,3 +14,22 @@
 * **Padding**
 * **Border**
 * **Margin**
+
+
+
+### **Box Model Dimensions**
+
+* **Total width**
+* **Total height**
+
+
+
+### **Box Model Types**
+
+* **Standard Box Model**
+* **Alternative - box-sizing: border-box;**
+
+
+
+
+
