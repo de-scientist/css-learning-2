@@ -33,5 +33,14 @@
 
 ### **The Display Property**
 
-* **Block**
-* **Inline**
+* **Block > display: block;**
+* **Inline > display: inline;**
+* **Flex**
+* **Grid**
+
+
+
+### **CSS Shadow Effects**
+
+* **box-shadow > offset-x, offset-y, blur-radius, spread-radius,** 
+* **box-shadow generator -> website for generating box-shadow**
