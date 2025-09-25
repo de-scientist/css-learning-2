@@ -44,3 +44,21 @@
 
 * **box-shadow > offset-x, offset-y, blur-radius, spread-radius,** 
 * **box-shadow generator -> website for generating box-shadow**
+
+
+
+### **2D Transformations**
+
+* **translate(x,y)**
+* **none**
+* **matrix()**
+* **perspective()**
+* **skewX()**
+* **skewY()**
+
+
+
+### **CSS Custom Properties (Variables)**
+
+* **--color-primary: purple; <<< How to define a custom property**
+* **color: var(--color-primary);- << how to use the custom property**
