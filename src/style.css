@@ -4,7 +4,9 @@
 }
 
 a {
-  display: block;
+  /*display: block;*/
+  padding-top: 20px 10px 15px 15px;
+  margin-left: 20px;
   
 }
 
@@ -12,10 +14,14 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
   color: rgba(red, green, blue, alpha);
-  display: inline;
-
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
  /*box-sizing: border-box;*/
   padding: 10px;
+}
+
+h2 {
+  transform: translate(10px, 5px);
+  padding: 20px 10px;
 }
 
 .box {
