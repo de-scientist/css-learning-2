@@ -62,3 +62,10 @@
 
 * **--color-primary: purple; <<< How to define a custom property**
 * **color: var(--color-primary);- << how to use the custom property**
+
+
+
+### **CSS Flexbox**
+
+* **Flexbox is used to build one-dimensional layouts**
+* **Flex cointainer >>**
